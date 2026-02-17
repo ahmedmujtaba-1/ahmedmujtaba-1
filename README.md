@@ -1,6 +1,6 @@
 # <!-- Elegant Professional Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Umar%20Bisharat&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Software%20Engineer%20and%20Mobile%20App%20Developer&amp;descSize=18&amp;descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Ahmed%20Mujtaba&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Software%20Engineer%20and%20Mobile%20App%20Developer&amp;descSize=18&amp;descAlignY=55" />
 </div>
 
 <!-- Sophisticated Typing Animation -->
