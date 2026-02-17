@@ -150,7 +150,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://wa.me/qr/GZAT634PCKNJO1" target="_blank">
+        <a href="https://wa.link/7we2zy" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50" alt="WhatsApp" />
           <br><br>
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=500&amp;size=13&amp;duration=2000&amp;pause=1000&amp;color=25D366&amp;center=true&amp;vCenter=true&amp;width=180&amp;height=25&amp;lines=Quick+Discussion" alt="WhatsApp" />
