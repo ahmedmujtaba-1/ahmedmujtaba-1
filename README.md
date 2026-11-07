@@ -1,5 +1,5 @@
 <!--
-  Syed Nasir Hussain — GitHub Profile README
+  Ahmed Mujtaba — GitHub Profile README
   Theme: Neon Midnight, dark + light split  (#120A2A base · #9D4EDD purple · #FF2E97 pink · #FF9F1C orange · #F8F3FF light)
   Files: README.md + assets/header.svg + assets/about.svg  (keep the assets/ folder next to README.md)
   Repo name must be exactly your username:  nasirhussain-1/nasirhussain-1
