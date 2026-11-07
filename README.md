@@ -31,7 +31,7 @@ Admin staff
 🏠 Residents& staff
 🌐 Bilingual portalEnglish / Urdu
 🔐 Role-basedaccess
-📄 Dues, complaints,gate passes
+📄 Dues · ComplaintsGate passes
 🧑‍💼 Admin dashboardfinance · notices · reports
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE600,50:FF9F1C,100:FF2E97&height=3" width="100%"/> <h2 align="center">Featured Projects</h2> <table> <tr> <td width="50%" valign="top">
 📡 WiFi CSI Sensing
@@ -47,6 +47,10 @@ Fast search backend for a university RAG assistant.
 
 A C++ engine built on an inverted index and a hash table that returns the top-k most relevant documents quickly. Built for the Data Structures and Algorithms PBL.
 
+❓ Query
+🗂️ Invertedindex
+#️⃣ Hashtable
+🏆 Top-kdocuments
 <img src="https://img.shields.io/badge/C++-120A2A?style=flat-square&logo=cplusplus&logoColor=FF9F1C"/> <img src="https://img.shields.io/badge/Data%20Structures-120A2A?style=flat-square&color=120A2A&labelColor=120A2A&label=%E2%9C%A8"/> </td> </tr> <tr> <td width="50%" valign="top">
 🚦 Traffic Signal Control with AI
 
@@ -61,16 +65,27 @@ Arduino Nano street light with LDR and IR sensor.
 
 Light stays off in daylight, dims at night and goes full bright when the IR sensor detects movement.
 
+No
+Yes
+No
+Yes
+☀️ LDR
+🧠 ArduinoNano
+🌙 Night?
+Off
+🚶 IR motion?
+Dim
+Full bright
 <img src="https://img.shields.io/badge/Arduino-120A2A?style=flat-square&logo=arduino&logoColor=FF9F1C"/> <img src="https://img.shields.io/badge/C++-120A2A?style=flat-square&logo=cplusplus&logoColor=FFE600"/> </td> </tr> </table> <details> <summary><b>🧪 More builds: sites and experiments</b></summary> <br/>
 Project	What it does
 🌐 Portfolio & Research Blog	Personal website for research, tutorials, news and projects, with 3D animation
 </details> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:FF9F1C,100:FFE600&height=3" width="100%"/> <h2 align="center">Tech Stack</h2> <div align="center">
 	
-Languages	<img src="https://skillicons.dev/icons?i=cpp,java,kotlin,dart,py,js&theme=dark"/>
-Frontend	<img src="https://skillicons.dev/icons?i=html,css,react,flutter&theme=dark"/>
-Backend & Data	<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=dark"/>
-Embedded & Hardware	<img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark"/>
-Tools & Platforms	<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio&theme=dark"/>
+Languages	<img src="https://skillicons.dev/icons?i=cpp,java,kotlin,dart,py,js,ts&theme=dark"/>
+Frontend	<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter&theme=dark"/>
+Backend & Data	<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgres,firebase&theme=dark"/>
+Embedded & Hardware	<img src="https://skillicons.dev/icons?i=arduino,cpp,rust&theme=dark"/>
+Tools & Platforms	<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,androidstudio&theme=dark"/>
 </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE600,50:FF9F1C,100:FF2E97&height=3" width="100%"/> <h2 align="center">GitHub Analytics</h2> <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmedmujtaba-1&show_icons=true&rank_icon=github&hide_border=false&border_color=9D4EDD&border_radius=14&bg_color=120A2A&title_color=FF2E97&icon_color=FF9F1C&text_color=F8E9FF&ring_color=FFE600&count_private=true" alt="stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmujtaba-1&layout=compact&hide_border=false&border_color=9D4EDD&border_radius=14&bg_color=120A2A&title_color=FF2E97&text_color=F8E9FF" alt="top languages"/>
 
 <br/><br/>
